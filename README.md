@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C# Design Patterns
 - 👯 I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: roman.nemchuk@gmail.com
+
 -->
